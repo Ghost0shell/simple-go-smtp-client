@@ -1,0 +1,9 @@
+from: "me@mail.com"
+to: "you@mail.com, somebodyelse@mail.com"
+host: "smtp.mysuperhost.com"
+port: 25
+subject: "a new world order\r\n"
+body: "A long time ago in a galaxy far, far away,\n
+Something you would love to say. \n
+Kind Regards, \n
+Your beloved."
